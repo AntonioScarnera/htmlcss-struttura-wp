@@ -26,7 +26,7 @@
 
 .top-header{
     width: 100%;
-    height: 180px;
+    height: 140px;
     margin: 10px auto;
     border: 1px solid black;
     background-color: fuchsia;
@@ -82,4 +82,14 @@ nav{
 
 .left{
     float: left;
+}
+
+/* fine pagina */
+
+.end-page{
+    width: 100%;
+    height: 40px;
+    border: 1px solid black;
+    background-color: blueviolet;
+    margin: 10px auto;
 }
